@@ -1,2 +1,2 @@
-kernel/mm/zsmalloc.ko:
-kernel/drivers/block/zram/zram.ko: kernel/mm/zsmalloc.ko
+/system_dlkm/lib/modules/android14-5.15/zsmalloc.ko:
+/system_dlkm/lib/modules/android14-5.15/zram.ko: /system_dlkm/lib/modules/android14-5.15/zsmalloc.ko
