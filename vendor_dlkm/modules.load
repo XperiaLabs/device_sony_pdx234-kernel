@@ -144,8 +144,11 @@ stm_p_basic.ko
 stm_p_ost.ko
 stm_console.ko
 stm_ftrace.ko
+snd-soc-tas5805m.ko
 snd-usb-audio-qmi.ko
 snd-soc-hdmi-codec.ko
+tc956x_pcie_eth.ko
+realtek.ko
 cfg80211.ko
 mac80211.ko
 qrtr-smd.ko
